@@ -1,2 +1,2 @@
-# evangadi-web-development
-hands-on projects for full-stack web development at Evangadi bootcamp
+# Apple Website HTML/CSS Replica
+A hands-on project replicating Apple's website layout using HTML and CSS a week in full-stack web development training at Evangadi bootcamp.
